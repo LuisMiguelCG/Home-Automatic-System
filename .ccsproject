@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVariant value="50:Theia-based"/>
+	<ccsVersion value="71.0.1"/>
+	<deviceFamily value="TMS470"/>
+	<connection value="common/targetdb/connections/Stellaris_ICDI_Connection.xml"/>
+	<executableActions value=""/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=TivaTemplate.projectspec.TivaTemplate"/>
+	<activeTargetConfiguration value="targetConfigs/Tiva TM4C123GH6PM.ccxml"/>
+	<isTargetConfigurationManual value="false"/>
+	<origin value="C:\Users\Luismi\Desktop\WS_HomeAutomationSystem\_PlantillaTiva\TivaTemplate.projectspec"/>
+	<filesToOpen value="main.c"/>
+</projectOptions>

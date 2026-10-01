@@ -1,0 +1,21 @@
+# Salidas de compilación
+Debug/
+Release/
+build/
+*.o
+*.d
+*.obj
+*.out
+*.elf
+*.bin
+*.map
+
+# Metadatos de Code Composer Studio
+.launches/
+.settings/
+.metadata/
+targetConfigs/*.ccxml.bak
+
+# Editores
+.vscode/
+*.swp
